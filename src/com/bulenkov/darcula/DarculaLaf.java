@@ -46,7 +46,7 @@ import java.util.Properties;
  * @author Konstantin Bulenkov
  */
 public final class DarculaLaf extends BasicLookAndFeel {
-  public static final String NAME = "Darcula";
+  public static final String NAME = "DarculaFlat";
   BasicLookAndFeel base;
   public DarculaLaf() {
     try {
